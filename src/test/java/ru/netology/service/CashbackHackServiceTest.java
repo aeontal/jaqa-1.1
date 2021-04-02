@@ -24,6 +24,12 @@ public class CashbackHackServiceTest {
         assertEquals(actual, expect);
     }
     @Test
+    public void shouldCashBackEqualZero() {
+        int actual = service.remain(0);
+        int expect = 1000;
+        assertEquals(actual, expect);
+    }
+    @Test
     public void shouldCashBackLessThenThousand() {
         int actual = service.remain(550);
         int expect = 450;

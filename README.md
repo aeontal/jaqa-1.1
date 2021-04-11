@@ -1,7 +1,7 @@
 ##  CashbackHacker
 
 ### Junit4 [![Java CI with Gradle](https://github.com/aeontal/jaqa-1.1/actions/workflows/gradle.yml/badge.svg?branch=junit4)](https://github.com/aeontal/jaqa-1.1/actions/workflows/gradle.yml)
-### TestNG [![Java CI with Gradle](https://github.com/aeontal/jaqa-1.1/actions/workflows/gradle.yml/badge.svg?branch=testng)](https://github.com/aeontal/jaqa-1.1/actions/workflows/gradle.yml)
+### TestNG [![Java CI with Gradle](https://github.com/aeontal/jaqa-1.1/actions/workflows/gradle.yml/badge.svg?branch=testNG)](https://github.com/aeontal/jaqa-1.1/actions/workflows/gradle.yml)
 
 ### Задача
 
